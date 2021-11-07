@@ -21590,3 +21590,7 @@ data/dogImages/test/001.Affenpinscher/Affenpinscher_00047.jpg
 data/dogImages/test/001.Affenpinscher/Affenpinscher_00036.jpg
 data/dogImages/test/001.Affenpinscher/Affenpinscher_00023.jpg
 data/dogImages/test/001.Affenpinscher/Affenpinscher_00003.jpg
+data/.DS_Store
+.DS_Store
+data/dogImages/.DS_Store
+data/dogImages/test/.DS_Store
