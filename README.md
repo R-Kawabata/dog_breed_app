@@ -5,7 +5,7 @@
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 ## Link to Medium post
-[Click here](https://medium.com/@raphaelkawabata/udacity-data-science-capstone-using-cnn-to-build-a-dog-breed-classifier-1336a2447a9e)
+[Click here](https://medium.com/@raphaelkawabata/udacity-data-science-capstone-using-cnn-to-build-a-dog-breed-classifier-bc2b15744a2f)
 
 ## Project Overview
 
